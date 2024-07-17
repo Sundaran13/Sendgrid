@@ -273,7 +273,7 @@ font-size: 14px;
 line-height: 19px;
 word-wrap: break-word;"
                                                         valign="top">
-                                                        {{created_by_person_name}} from {{updated_by_company_name}} with Account ID: {{account_details_seller_account_id}}
+                                                        {{created_by_person_name}} from {{updated_by_company_name}} with Account ID: {{offer_details_seller_id}}
                                                     </td>
                                                 </tr>
                                                 <tr>
